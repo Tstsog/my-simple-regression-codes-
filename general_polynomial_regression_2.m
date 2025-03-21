@@ -10,7 +10,10 @@
 %
 % a_coeffs = (Z'*Z)^(-1) * (Z' * y), where Z is given as Z = [ones(size(x)) x x.^2 x.^3 x.^4 x.^5].
 %
-% March 20, 2025 & UND
+% Written by Tsogbayar Tsednee (PhD)
+% Contact email: tsog215@gmail.com
+%
+% March 20, 2025 & & University of North Dakota 
 %
 function [] = general_polynomial_regression_2
 clc; clear general_polynomial_regression_2;  
