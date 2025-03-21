@@ -9,7 +9,11 @@
 %        n * a0 +   sum(x_i) * a1 = sum(y_i)
 %  sum(x_i)* a0 + sum(x^2_i) * a1 = sum(y_i *x_i)
 %
-% March 20, 2025 & UND
+% Written by Tsogbayar Tsednee (PhD)
+% Contact email: tsog215@gmail.com
+%
+% March 20, 2025 & & University of North Dakota 
+%
 %
 function [] = linear_regression
 clc; clear linear_regression;  
