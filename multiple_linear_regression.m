@@ -10,7 +10,10 @@
 %  sum(x1_i)* a0 +    sum(x1^2_i) * a1 + sum(x2_i*x1_i) * a2 = sum(y_i *x1_i)
 %  sum(x2_i)* a0 + sum(x1_i*x2_i) * a1 +    sum(x2^2_i) * a2 = sum(y_i *x2_i)
 %
-% March 20, 2025 & UND
+% Written by Tsogbayar Tsednee (PhD)
+% Contact email: tsog215@gmail.com
+%
+% March 20, 2025 & & University of North Dakota 
 %
 function [] = multiple_linear_regression
 clc; clear multiple_linear_regression; 
